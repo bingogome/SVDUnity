@@ -1,4 +1,6 @@
-# Simple SVD implementation
+# Simple SVD implementation for Unity
 
-Implemented by Paul Godfrey
+svd_from_scratch/svdsim.m implemented by Paul Godfrey
 https://ww2.mathworks.cn/matlabcentral/profile/authors/272768
+
+No external libraries needed.
